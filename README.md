@@ -1,4 +1,4 @@
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Axz9vn)
 </details>
 
 ## Deploy
