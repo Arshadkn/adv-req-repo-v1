@@ -265,13 +265,15 @@ ID - <code>{}</code>
 Name - {}
 """
     FILE_MSG = """
-<b>Hai 👋 {} </b>😍
+<b>ʜᴇʟʟᴏ {} </b>😍
 
-<b>📫 Your File is Ready</b>
+<b>✅ ʏᴏᴜʀ ғɪʟᴇ sᴜᴄᴄᴇssғᴜʟʟʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴛᴏ ᴄʜᴀɴɴᴇʟ ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴅᴏᴡɴʟᴏᴀᴅ ʙᴜᴛᴛᴏɴ</b>
 
-<b>📂 Fɪʟᴇ Nᴀᴍᴇ</b> : <code>{}</code>              
+<b>🗃️ 𝑭𝑰𝑳𝑬 𝑵𝑨𝑴𝑬</b> : <code>{}</code>              
                        
-<b>⚙️ Fɪʟᴇ Sɪᴢᴇ</b> : <b>{}</b>
+<b>🔖 𝐅𝐈𝐋𝐄 𝐒𝐈𝐙𝐄</b> : <b>{}</b>
+
+<b> © @DCENIMAS </b>
 """
     CHANNEL_CAP = """
 <b>Hai 👋 {}</b> 😍
